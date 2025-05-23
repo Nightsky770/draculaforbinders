@@ -13,4 +13,4 @@ If you are using US letter paper (8.5" x 11"), download the "letter" folder cont
 
 If you are using A4 paper, download the "A4" folder containing the signatures and print them out, double-sided, flip on short side.
 
-LaTeX originals are in the source folder. You do not need them unless you are preparing your own version.
+Source files (top-level and per-chapter files) are in the source directory for each book. You do not need them unless you are preparing your own version. I am using LuaLaTeX.
